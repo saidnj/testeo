@@ -9,7 +9,7 @@
   }
 
 body{
-    background-image: url("img/fondo4.gif");
+    background-image: var(--bg-completo);
 }
 
 .barra {
